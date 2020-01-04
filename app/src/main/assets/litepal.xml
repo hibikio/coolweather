@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value="cool_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.wxic.coolweather.db.Province" />
+        <mapping class="com.wxic.coolweather.db.City" />
+        <mapping class="com.wxic.coolweather.db.County" />
+    </list>
+    
+</litepal>
